@@ -1,0 +1,13 @@
+You don't look like you're from around here.
+0 : I've lived here all my life!
+1 : I came here from Newton
+1
+Newton eh? I heard there's trouble brewing down there.
+0 : Did I say Newton? I'm actually from Springville.
+1 : I haven't heard about any trouble.
+0
+Oh really? Then you must know Mr. Bowler.
+0 : Who?
+1 : Mr. Bowler is a good friend of mine!
+1
+You Liar! there aint no Mr. Bowler, I made him up!
